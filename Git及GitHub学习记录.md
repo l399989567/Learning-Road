@@ -8,24 +8,24 @@
    
 * GitHub的基本使用技巧——注册、创建仓库、新建文档、PR(未完全理解)
       
-(&nbsp;)(&nbsp;)>[B站视频教程——GitHub如何使用](https://www.bilibili.com/video/BV1yo4y1d7UK)(未完全理解)
->  
->GitHub官方使用教程文档：[ [英](https://docs.github.com/en/get-started/quickstart/hello-world) ] [ [中](https://www.jianshu.com/p/3a81cab0cae7) ]
+&emsp;&emsp;&emsp;[B站视频教程——GitHub如何使用](https://www.bilibili.com/video/BV1yo4y1d7UK)(未完全理解)
+
+&emsp;&emsp;&emsp;GitHub官方使用教程文档：[ [英](https://docs.github.com/en/get-started/quickstart/hello-world) ] [ [中](https://www.jianshu.com/p/3a81cab0cae7) ]
 
 ### #2 关于Git的使用( 未学习 )
 
->Git的教程网站：<br>
+* Git的教程网站：<br>
 
-[猴子都能懂的Git入门](https://backlog.com/git-tutorial/cn/)
+&emsp;&emsp;&emsp;[猴子都能懂的Git入门](https://backlog.com/git-tutorial/cn/)
 `内容全面，图文并茂，涵盖初级、中级、高级`
  
  
-[廖雪峰Git教程](https://www.liaoxuefeng.com/wiki/896043488029600)
+&emsp;&emsp;&emsp;[廖雪峰Git教程](https://www.liaoxuefeng.com/wiki/896043488029600)
 `浅显易懂，适合初学者`
 
-[Learn Git Branching](https://learngitbranching.js.org/?locale=zh_CN)
+&emsp;&emsp;&emsp;[Learn Git Branching](https://learngitbranching.js.org/?locale=zh_CN)
 `一个在线的Git学习网站，通过可视化交互的方式学习Git相关操作。动画做的很棒，但适合有一定基础的同学。`
 
->GitHub 教程
+* GitHub 教程
    
-[GitHub秘籍](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md)
+&emsp;&emsp;&emsp;[GitHub秘籍](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md)
