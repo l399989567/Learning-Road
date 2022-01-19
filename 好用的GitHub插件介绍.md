@@ -1,6 +1,6 @@
 ## 一、 Refined GitHub
 
->地址：https://github.com/refined-github/refined-github
+地址：https://github.com/refined-github/refined-github
 
 这个插件功能非常强大，致力于让GitHub变得更好用，其中包含了几十种实用小功能，部分功能已被GitHub官方实现。下面列举部分功能：
 
