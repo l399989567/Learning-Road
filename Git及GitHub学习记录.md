@@ -2,11 +2,11 @@
 [`GitHub中文社区`](https://www.githubs.cn/)&ensp;&ensp;[`本文原址`](https://www.githubs.cn/post/git-tutorial)
 ### # 关于GitHub的使用
    
-* **GitHub的文档如何编写** [`转到`](https://blog.csdn.net/qq_45062586/article/details/104640118)
+* **GitHub的文档如何编写** ——markdown语法 [`转到`](https://blog.csdn.net/qq_45062586/article/details/104640118)
    
 * **GitHub中好用的插件**  [`转到`](https://github.com/l399989567/Python-Learning-Road/blob/resources/%E5%A5%BD%E7%94%A8%E7%9A%84GitHub%E6%8F%92%E4%BB%B6%E4%BB%8B%E7%BB%8D.md)
    
-* **GitHub的基本使用技巧**——注册、创建仓库、新建文档、PR`**未完全理解**`
+* **GitHub的基本使用技巧**——注册、创建仓库、新建文档、Pull Respond `**未完全理解**`
       
 &emsp;&emsp;&emsp;— B站视频教程---GitHub如何使用 [`转到`](https://www.bilibili.com/video/BV1yo4y1d7UK)
 
