@@ -1,4 +1,3 @@
-# 学习路线：
 ## #1 关于GitHub的使用
 
    主要使用的是[GitHub中文社区](https://www.githubs.cn/)的资源 [点击这里](https://www.githubs.cn/post/git-tutorial)
