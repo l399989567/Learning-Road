@@ -50,18 +50,25 @@ cd D:\001_Code
 
 * **公式键入方法**
 
-**$**
+&emsp;&emsp;&emsp;定义：
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;`$` 一个是左对齐
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;`$$` 两个是剧中
+
+&emsp;&emsp;&emsp;例子：
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**$**
 E=mc^2
 **$**
 
-**$$**
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**$$**
 x = \frac{-b\pm \sqrt{b^2-4ac}}{2a}
 **$$**
     
- 效果：
+&emsp;&emsp;&emsp;效果：
  
-![image](https://user-images.githubusercontent.com/43770754/150300660-8ae9af36-bcd9-41a1-be7e-bc772161e2ba.png)
-
+&emsp;&emsp;&emsp;&emsp;![image](https://user-images.githubusercontent.com/43770754/150300660-8ae9af36-bcd9-41a1-be7e-bc772161e2ba.png)
 
     
 
