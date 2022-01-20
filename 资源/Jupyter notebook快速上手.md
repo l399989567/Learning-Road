@@ -1,16 +1,60 @@
-# Jupyter notebook快速上手
+# ⭐速记总结
 
-> 张子豪 同济大学研究生
+* **载入 Jupyter notebook**
 
-的Bilibili视频教程：[同济子豪兄](https://space.bilibili.com/1900783/#/)<br>
+```cmd
+jupyter notebook
+```
 
-知乎专栏：[人工智能小技巧](https://zhuanlan.zhihu.com/c_1032626015746502656)<br>
+* **快速进入文件夹**
 
-简书专栏：[人工智能小技巧](https://www.jianshu.com/u/38cccf09b515)<br>
+```cmd
+# 在cmd命令行中键入
+cd D:\001_Code
+```
 
-子豪兄的粉丝答疑交流QQ群：953712961
+* **常用的快捷键**
 
-[TOC]
+&emsp;&emsp;&emsp;`h` 查看所有快捷键
+
+&emsp;&emsp;&emsp;双击 `d` 删除本单元格 ⭐
+
+&emsp;&emsp;&emsp;`shift` + `Enter` 运行本单元格，选择下面的代码块
+
+&emsp;&emsp;&emsp;`ctrl` + `Enter` 运行本单元格 ⭐
+
+&emsp;&emsp;&emsp;`alt` + `Enter  运行本单元格，在下方新建一个单元格
+
+&emsp;&emsp;&emsp;`x` 剪切本单元格
+
+&emsp;&emsp;&emsp;`c` 复制本单元格
+
+&emsp;&emsp;&emsp;`shift` + `v` 粘贴到上面
+
+&emsp;&emsp;&emsp;`v` 粘贴到下面
+
+&emsp;&emsp;&emsp;`L` 显示代码行号
+
+&emsp;&emsp;&emsp;`m` 将代码单元格转换为Markdown单元格 ⭐
+
+&emsp;&emsp;&emsp;`y` 将Markdown单元格转换为代码单元格 ⭐
+
+* **公式键入方法**
+
+**$**
+E=mc^2
+**$**
+
+**$$**
+x = \frac{-b\pm \sqrt{b^2-4ac}}{2a}
+**$$**
+    
+ 效果：
+ 
+![image](https://user-images.githubusercontent.com/43770754/150300660-8ae9af36-bcd9-41a1-be7e-bc772161e2ba.png)
+
+
+    
 
 # 为什么学Jupyter notebook？
 
@@ -215,7 +259,7 @@ $$x = \frac{-b\pm \sqrt{b^2-4ac}}{2a}$$
 
 ![渲染之后的Latex数学公式](https://upload-images.jianshu.io/upload_images/13714448-7fa655030c9da5ec.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-# 数据分析与可视化实战案例：学习时间与成绩的关系（线性回归）
+# 数据分析与可视化实战案例：学习时间与成绩的关系（线性回归）[跳转](baidu.com)
 
 先用excel把玩数据
 
