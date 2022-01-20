@@ -12,7 +12,7 @@ GitHub文件浏览器优化
 显示共同关注
 
 ## 二、 Octotree
-地址：https://github.com/ovity/octotree
+地址：https://github.com/ovity/octotree 
 
 在 Github 当你想要在网页端查看项目源码，在文件间跳转非常不方便，这个插件会在左侧生成文件树目录，就像 IDE 一样，方便在不同目录之间来回切换：
 
