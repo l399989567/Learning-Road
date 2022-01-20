@@ -6,6 +6,15 @@
 jupyter notebook
 ```
 
+* **退出 Jupyter notebook**
+
+&emsp;&emsp;&emsp;在网页端，点击右上角 `Quit` 来实现
+
+![image](https://user-images.githubusercontent.com/43770754/150308565-5e134cde-c92c-47ca-9725-825300680801.png)
+
+
+&emsp;&emsp;&emsp;在cmd终端中，按 `Ctrl` + `C` 两次来实现
+
 * **快速进入文件夹**
 
 ```cmd
@@ -227,7 +236,7 @@ shift v 粘贴到上面
 
 v 粘贴到下面
 
-l 显示代码行号
+L 显示代码行号
 
 
 
@@ -259,7 +268,9 @@ $$x = \frac{-b\pm \sqrt{b^2-4ac}}{2a}$$
 
 ![渲染之后的Latex数学公式](https://upload-images.jianshu.io/upload_images/13714448-7fa655030c9da5ec.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-# 数据分析与可视化实战案例：学习时间与成绩的关系（线性回归）[跳转](baidu.com)
+# 数据分析与可视化实战案例：学习时间与成绩的关系（线性回归）
+
+[`项目地址`](https://github.com/l399989567/Learning-Road/blob/main/%E8%B5%84%E6%BA%90/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E4%B8%8E%E5%8F%AF%E8%A7%86%E5%8C%96%E5%AE%9E%E6%88%98%E6%A1%88%E4%BE%8B%EF%BC%9A%E5%AD%A6%E4%B9%A0%E6%97%B6%E9%97%B4%E4%B8%8E%E6%88%90%E7%BB%A9%E7%9A%84%E5%85%B3%E7%B3%BB%EF%BC%88%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%EF%BC%89.ipynb)
 
 先用excel把玩数据
 
@@ -267,13 +278,20 @@ $$x = \frac{-b\pm \sqrt{b^2-4ac}}{2a}$$
 
 观察数据、导入数据、划分特征和标签、划分训练集和测试集、构建模型，模型可视化
 
-# 用Jupyter notebook制作ppt并在线分享
+# 用Jupyter notebook制作ppt并在线分享 （目前无使用需求）
 
+![image](https://user-images.githubusercontent.com/43770754/150309084-0485614b-e5eb-47e6-8326-ea612a56d431.png)
+
+# ⭐魔术关键字
+
+魔术关键字（magic keywords），正如其名，是用于控制 notebook 的特殊的命令。它们运行在代码单元中，以 `%` 或者 `%%` 开头，前者控制一行，后者控制整个单元。
+
+比如，要得到代码运行的时间，则可以使用 `%timeit`；如果要在文档中显示 matplotlib 包生成的图形，则使用 `% matplotlib inline`；如果要做代码调试，则使用 `%pdb`。但注意这些命令大多是在Python kernel 中适用的，其他 kernel 大多不适用。有许许多多的魔术关键字可以使用，更详细的清单请参考 [Built-in magic commands](https://ipython.readthedocs.io/en/stable/interactive/magics.html) 。
 
 
 # 参考博客
 
-[左手代码，右手写作：你必须会的Jupyter Notebook](<https://www.jianshu.com/p/86117613b7a6>)<br>
+[左手代码，右手写作：你必须会的Jupyter Notebook](<https://www.jianshu.com/p/86117613b7a6>) `已阅`<br>
 
 [二十分钟精通排版神器Markdown，从此word和秀米是路人](<https://www.jianshu.com/p/4475b9d8810f>)<br>
 
