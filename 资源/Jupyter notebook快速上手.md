@@ -1,3 +1,5 @@
+[toc]
+
 # ⭐速记总结
 
 * **载入 Jupyter notebook**
@@ -70,7 +72,7 @@ x = \frac{-b\pm \sqrt{b^2-4ac}}{2a}
  
 &emsp;&emsp;&emsp;&emsp;![image](https://user-images.githubusercontent.com/43770754/150300660-8ae9af36-bcd9-41a1-be7e-bc772161e2ba.png)
 
-    
+
 
 # 为什么学Jupyter notebook？
 
@@ -285,7 +287,7 @@ $$x = \frac{-b\pm \sqrt{b^2-4ac}}{2a}$$
 
 观察数据、导入数据、划分特征和标签、划分训练集和测试集、构建模型，模型可视化
 
-# 用Jupyter notebook制作ppt并在线分享 （目前无使用需求）
+# 用Jupyter notebook制作PPT并在线分享 （目前无使用需求）
 
 ![image](https://user-images.githubusercontent.com/43770754/150309084-0485614b-e5eb-47e6-8326-ea612a56d431.png)
 
