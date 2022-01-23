@@ -5,6 +5,7 @@
 > #### *怎么*使用？
 > #### *谁*在用？
 > #### 尝试一下
+> #### 图片+图注
 
 ## 正文
 ### 1. Markdown*是什么*？
@@ -197,6 +198,23 @@ Markdown的使用者：
 (http://blog.codinghorror.com/standard-markdown-is-now-common-markdown/ )。
 ****
 以上基本是所有traditonal markdown的语法。
+
+#### 7. 图片+图注
+
+```html
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="在这里插入图片地址" width = "65%" alt=""/>
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">
+      在这里插入图片注释
+  	</div>
+</center>
+```
 
 ### 其它：
 列表的使用(非traditonal markdown)：
