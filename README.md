@@ -13,6 +13,8 @@
 
 > * **digits数据集降维可视化** [`转`](https://github.com/l399989567/Learning-Road/blob/main/%E8%B5%84%E6%BA%90/digits%E6%95%B0%E6%8D%AE%E9%9B%86%E9%99%8D%E7%BB%B4%E5%8F%AF%E8%A7%86%E5%8C%96.ipynb)<br>
 
+* **Pytorch多层感知机分类MNIST数据集** [`转`](https://github.com/l399989567/Learning-Road/blob/main/资源/Pytorch多层感知机分类MNIST数据集.ipynb)<br>
+
 
 
 
