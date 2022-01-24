@@ -15,7 +15,7 @@
 >
 > * **Pytorch多层感知机分类MNIST数据集** [`转`](https://github.com/l399989567/Learning-Road/blob/main/资源/Pytorch多层感知机分类MNIST数据集.ipynb)<br>
 
-* **CS231N斯坦福李菲菲CV教程** [`转`](https://github.com/l399989567/Learning-Road/blob/main/cs231/README.md)<br>
+* **CS231N斯坦福李菲菲CV教程** [`转`](https://github.com/l399989567/Learning-Road/blob/main/cs231n/README.md)<br>
 
 
 
