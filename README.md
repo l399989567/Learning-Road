@@ -17,7 +17,7 @@
 
 * **CS231N斯坦福李菲菲CV教程** [`转`](https://github.com/l399989567/Learning-Road/blob/main/cs231n/README.md)<br>
 
-
+* **动手学深度学习 by李沐** 
 
 
 * **** [`转`]()<br>
