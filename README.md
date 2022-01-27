@@ -16,6 +16,15 @@ jupyter notebook
 3. **Markdown的基本语法** [`转`](https://github.com/l399989567/Learning-Road/blob/main/%E8%B5%84%E6%BA%90/Markdown%E7%9A%84%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95%E5%B0%8F%E8%AE%B0.md) ⭐
 ---
 #### 代码及基本原理：
+1. **Colab使用技巧**
+    1. 防止Colab断连
+```javascript
+function ConnectButton(){
+    console.log("Connect pushed"); 
+    document.querySelector("#connect").click() 
+}
+setInterval(ConnectButton,60000);
+```
 1. **神经网络 & 机器学习** `子豪兄` <br>
     1. **digits数据集**降维可视化 [`转`](https://github.com/l399989567/Learning-Road/blob/main/%E8%B5%84%E6%BA%90/digits%E6%95%B0%E6%8D%AE%E9%9B%86%E9%99%8D%E7%BB%B4%E5%8F%AF%E8%A7%86%E5%8C%96.ipynb)<br>
     1. Pytorch多层感知机分类**MNIST数据集** [`转`](https://github.com/l399989567/Learning-Road/blob/main/资源/Pytorch多层感知机分类MNIST数据集.ipynb)
