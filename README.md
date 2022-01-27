@@ -34,11 +34,12 @@ setInterval(ConnectButton,60000);
     2. 知乎中文贴 [`转`](https://zhuanlan.zhihu.com/p/21930884)
 
 1. **动手学深度学习-by李沐** ⭐ 
-    1. [**目录**]
+    1. [**目录 & Git库**](https://github.com/l399989567/d2l-zh)
     2. [**课程主页**](https://courses/d2l/ai/zh-v2)
     1. [**教材**](https://zh-v2.d2l.ai/)
     1. [**课程论坛讨论**](https://discuss.d2l.ai/c/16)
     1. [**Pytorch论坛**](https://discuss.pytorch.org/)
+    
 
 ****
 
