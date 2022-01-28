@@ -6,6 +6,7 @@
 > #### *谁*在用？
 > #### 尝试一下
 > #### 图片+图注
+> #### 表格+矩阵
 
 ## 正文
 ### 1. Markdown*是什么*？
@@ -215,6 +216,7 @@ Markdown的使用者：
   	</div>
 </center>
 ```
+#### 8. 表格+矩阵 [`转`](https://blog.csdn.net/perry0528/article/details/82378676)
 
 ### 其它：
 列表的使用(非traditonal markdown)：
